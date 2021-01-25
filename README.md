@@ -2,7 +2,7 @@
 
 ![GUI Application]()
 
-##Introduction
+## Introduction
 In the present scenario of pandemic, each and everyone is well known with the fact that everything has shifted to online. All the exchange of information between people working in different sectors is taking place through documents, pdfs, files and other soft copy formats. So, when all this reach to our system via emails or other modes it's almost impossible to organize all that downloaded documents and files in the system's downloads section. If someone is downloading files, documents etc. at the rate of 100-200 files or documents every now and then which will create a haphazard in the system. It will also lead to unnecessary consumption of the drivers present in the system and this can trouble the user in order to maintain the decorum of their documents and files. It is a time-consuming process to find out the desired files or documents from a huge number of clutter present in the downloads section.
 So, this project brings an intelligent software which will automatically segregate and organize the files and documents present in downloads section of user's system on the basis of file type (that is .txt,.docx,.jpeg etc.). Not only this but it will also take care of user's desire of setting up the location of the specific document or file along with some other vibrant features.
 Keywords: Intelligent, Organizer, File Extension
@@ -15,7 +15,7 @@ Keywords: Intelligent, Organizer, File Extension
 
 ![GUI Application:4]()
 
-##Project ##Working
+## Project ##Working
 Step-1: Assembling GUI application
 Create a GUI Application using the Tkinter Module, include various functionalities such as:
 1.1	Organize Button: For performing sorting.
