@@ -15,7 +15,7 @@ Keywords: Intelligent, Organizer, File Extension
 
 ![GUI Application:4]()
 
-## Project ##Working
+## Project Working
 Step-1: Assembling GUI application
 Create a GUI Application using the Tkinter Module, include various functionalities such as:
 1.1	Organize Button: For performing sorting.
